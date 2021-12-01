@@ -1,4 +1,3 @@
-import reactDom from 'react-dom'
 import { FaTimes } from 'react-icons/fa'
 
 const Task = ({ task, onDelete, onToggle }) => {
